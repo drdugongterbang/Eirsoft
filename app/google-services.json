@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339584232533",
+    "project_id": "eirsoft-ae841",
+    "storage_bucket": "eirsoft-ae841.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339584232533:android:e2c24f515614a75e2378dc",
+        "android_client_info": {
+          "package_name": "com.dugong.eirsoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWbuqOlROuaEGQVVnVNUjV38tK6Utlzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
